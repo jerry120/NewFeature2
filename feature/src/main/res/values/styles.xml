@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#03a9f4</item>
+        <item name="colorPrimaryDark">#039be5</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="collapsedTitleTextAppearance">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+
+    <style name="expandedTitleTextAppearance">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+
+</resources>

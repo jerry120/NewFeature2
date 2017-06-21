@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lv_vertical"
+        android:title="垂直的listview"
+        ></item>
+    <item
+        android:id="@+id/lv_horizontal"
+        android:title="水平的listview"
+        ></item>
+    <item
+        android:id="@+id/gv_vertical"
+        android:title="垂直的gridview"
+        ></item>
+    <item
+        android:id="@+id/gv_horizontal"
+        android:title="水平的gridview"
+        ></item>
+    <item
+        android:id="@+id/sv_vertical"
+        android:title="垂直的staggerview"
+        ></item>
+    <item
+        android:id="@+id/sv_horizontal"
+        android:title="水平的staggerview"
+        ></item>
+</menu>

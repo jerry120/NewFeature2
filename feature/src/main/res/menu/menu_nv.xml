@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="新特性">
+        <menu>
+            <item
+                android:id="@+id/nv_AppBarLayout"
+                android:icon="@mipmap/search"
+                android:title="AppBarLayout"></item>
+            <item
+                android:id="@+id/nv_CollaspingToolBarLayout"
+                android:icon="@mipmap/heart"
+                android:title="CollaspingToolBarLayout"></item>
+            <item
+                android:id="@+id/nv_RecyclerView"
+                android:icon="@mipmap/refresh"
+                android:title="RecyclerView"></item>
+            <item
+                android:id="@+id/nv_TableLayout"
+                android:icon="@mipmap/delete"
+                android:title="TableLayout"></item>
+        </menu>
+
+    </item>
+
+    <item android:title="新权限机制">
+        <menu>
+            <item
+                android:icon="@mipmap/search"
+                android:title="AppBarLayout"></item>
+            <item
+                android:icon="@mipmap/heart"
+                android:title="CollaspingToolBarLayout"></item>
+            <item
+                android:icon="@mipmap/refresh"
+                android:title="RecyclerView"></item>
+            <item
+                android:icon="@mipmap/delete"
+                android:title="TableLayout"></item>
+        </menu>
+    </item>
+
+</menu>
